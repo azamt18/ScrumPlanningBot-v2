@@ -1,7 +1,7 @@
 # ScrumPokerPlanningBot
 Telegram Bot For Scrum Poker Planning
 
-Listening on [@ScrumPlanning_Bot](https://t.me/ScrumPlanning_Bot)
+Listening on [@ScrumPlanning_Bot](https://t.me/ScrumPlanning_Bot) (now it is on freeze)
 
 Using C#, .NET and MongoDb
 
