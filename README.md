@@ -15,4 +15,6 @@ Using C#, .NET and MongoDb
 
 🏓Ping to check a functionality
 
-Questions and feature requests send to [@azam_turgunboyev](https://tg://user?id=350696802)
+Questions and feature requests send from 
+  - email to azam.turgunboyev@gmail.com
+  - telegram to [@azam_go](https://t.me/azam_go)
